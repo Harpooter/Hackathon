@@ -9,3 +9,17 @@ Next steps:
 1. Extract into your GitHub repo
 2. Give each AI its assigned prompt
 3. Merge completed files in stages
+
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+## Free Deployment
+
+Recommended hosting:
+- Vercel
+- Firebase
